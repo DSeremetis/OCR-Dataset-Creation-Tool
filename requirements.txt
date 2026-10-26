@@ -1,0 +1,2 @@
+# Core standalone annotation UI
+PyQt5>=5.15

@@ -1,0 +1,2 @@
+# Keep Kraken separate from the TensorFlow OCR environment.
+kraken>=6.0,<8.0
