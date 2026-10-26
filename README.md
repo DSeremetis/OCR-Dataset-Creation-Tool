@@ -4,6 +4,8 @@ A small desktop application for creating reviewed OCR training pairs from page
 scans and their known transcripts. It is designed to make the annotation step
 auditable and independent of any particular OCR model.
 
+![OCR Dataset Annotation Tool interface](Example_Of_UI.png)
+
 The current core workflow is deliberately narrow:
 
 ```text
